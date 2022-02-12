@@ -1,0 +1,11 @@
+
+Showing All Messages
+The repository at /Users/kevin/Downloads/OneDrive - Texas State University/CS 2308/PA 4/PA 4/FlixApp-cvlecpirwbxmphhhcrdqkixwnzph/SourcePackages/repositories/AlamofireImage-1f60f052 is invalid; try resetting package caches
+
+
+AlamofireImage
+
+Fetching from https://github.com/Alamofire/AlamofireImage (cached)
+
+
+Resolving Package Graph Failed    2/12/22, 4:56 PM    1.9 seconds
